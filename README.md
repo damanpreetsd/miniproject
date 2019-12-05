@@ -1,8 +1,9 @@
 # miniproject
-We are going to make a mini project that is a game, Objective is to create a game that will be controlled by user.
-In this game, there will be three things revolving over the oled screen i.e. main character, enemies and friends.
-The enemies and friends will come towards the user character, from which user has to kill the enemies, if user killed his friend by mistake the game will over. 
-If user kill enemy then it will increase the user scores. User scores will be shown and will continously updates on the top right corner of the Adafruit oled screen.
+We are going to make a game using Arduino, Adafruit oled screen and other basic electronics components.
+In this game user will be able to control the character with the buttons. Using those buttons character will move left and right and character will save the friend(smilies) by catching them and user has to avoid catching enenies(dragon).
+
+The enemies and friends will come towards the user character, from which user has to save only smilies, if user catched enemy by mistake the game will over. If user catch smily then it will increase the user scores. User scores will be shown and will continously updates on the top right corner of the Adafruit oled screen.
+
 #Components required for this project:
 
     • Arduino Leonardo
