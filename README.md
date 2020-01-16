@@ -7,7 +7,7 @@ The enemies and friends will come towards the user character, from which user ha
 #Components required for this project:
 
     • Arduino Leonardo
-    • Adafruit oled 120*64 screen
+    • Adafruit oled 128*64 screen
     • Breadboard
     • Connecting wires
     • Soldering iron
