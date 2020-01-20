@@ -12,4 +12,5 @@ The enemies and friends will come towards the user character, from which user ha
     • Connecting wires
     • Soldering iron
     • Soldering wire
+    • Joy stick or buttons
     • Laptop with good specifications and Ubunto OS
