@@ -370,7 +370,7 @@ void testscrolltext(void) {
   display.setTextSize(2); // Draw 2X-scale text
   display.setTextColor(SSD1306_WHITE);
   display.setCursor(10, 0);
-  display.println(F("Daman Preet"));
+  display.println(F("Daman Preet Singh"));
   display.display();      // Show initial text
   delay(100);
 
@@ -397,7 +397,7 @@ void testdrawbitmap(void) {
   display.drawBitmap(
     (display.width()  - LOGO_WIDTH ) / 2,
     (display.height() - LOGO_HEIGHT) / 2,
-    logo_bmp, LOGO_WIDTH, LOGO_HEIGHT, 1);
+    logo_bmp, LOGO_WIDTH, LOGO_HEIGHT, 2);
   display.display();
   delay(1000);
 }
